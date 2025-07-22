@@ -3,17 +3,17 @@ Repository này chứa các bài tập thực hành hằng tuần của môn **D
 
 ---
 
-## 📌 Nội dung
+## Nội dung
 Repo được tổ chức theo từng tuần.
 
-## ⚙️ Công nghệ sử dụng
+## Công nghệ sử dụng
 - **Apache Spark** (PySpark)
 - **Hadoop HDFS**
 - **Jupyter Notebook / Google Colab**
 
 ---
 
-## ✅ Kiến thức
+## Kiến thức
 - Sử dụng PySpark để thực thi tính toán phân tán
 - Làm việc với RDD và DataFrame
 - Thực hiện các phép lọc, nối bảng, nhóm dữ liệu
